@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Brownman Fight Stance Animation_00001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{222,0},{220,243}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{105,0},{220,243}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{221,488},{220,243}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{105,0},{220,243}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,244},{220,243}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{105,0},{220,243}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,488},{220,243}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{105,0},{220,243}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,732},{220,243}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{104,0},{220,243}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{221,244},{220,243}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{104,0},{220,243}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{221,243}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{103,0},{221,243}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{443,0},{220,243}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{103,0},{220,243}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{221,732},{220,243}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{102,0},{220,243}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{442,244},{220,242}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{101,0},{220,242}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{442,729},{219,242}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{101,0},{219,242}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00012.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{442,487},{219,241}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{100,0},{219,241}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00013.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{662,487},{217,241}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{100,0},{217,241}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00014.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{663,244},{216,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{99,0},{216,240}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00015.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{662,729},{216,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{98,0},{216,240}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00016.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{664,0},{214,241}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{98,0},{214,241}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00017.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{879,0},{213,242}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{97,0},{213,242}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00018.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{879,729},{212,243}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{97,0},{212,243}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00019.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{880,243},{210,243}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{97,0},{210,243}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00020.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1091,243},{210,243}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{96,0},{210,243}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00021.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1092,487},{209,243}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{96,0},{209,243}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00022.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1092,731},{208,242}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{96,1},{208,242}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00023.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1301,731},{208,242}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{96,1},{208,242}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+			<key>Brownman Fight Stance Animation_00024.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1093,0},{208,242}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{96,1},{208,242}}</string>
+				<key>sourceSize</key>
+				<string>{436,243}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{2048,1024}</string>
+			<key>textureFileName</key>
+			<string>sprites.png</string>
+			</dict>
+		</dict>
+</plist>

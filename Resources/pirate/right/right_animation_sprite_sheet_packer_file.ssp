@@ -1,0 +1,43 @@
+{
+    "algorithm": "Rect",
+    "dataFormat": "cocos2d",
+    "destPath": ".",
+    "encryptionKey": "",
+    "epsilon": 15,
+    "heuristicMask": false,
+    "imageFormat": "*.png",
+    "jpgQuality": 80,
+    "pixelFormat": "ARGB8888",
+    "pngOptLevel": 7,
+    "pngOptMode": "None",
+    "premultiplied": true,
+    "prependSmartFolderName": true,
+    "rotateSprites": false,
+    "scalingVariants": [
+        {
+            "forceSquared": false,
+            "maxTextureSize": 2048,
+            "name": "hdr/",
+            "pow2": false,
+            "scale": 1
+        }
+    ],
+    "spriteBorder": 2,
+    "spriteSheetName": "right_animation_sheet",
+    "srcList": [
+        "27.png",
+        "28.png",
+        "29.png",
+        "30.png",
+        "31.png",
+        "32.png",
+        "33.png",
+        "34.png",
+        "35.png"
+    ],
+    "textureBorder": 0,
+    "trimMode": "Rect",
+    "trimSpriteNames": true,
+    "trimThreshold": 1,
+    "webpQuality": 80
+}
